@@ -43,9 +43,10 @@ Starts the Tkinter event loop to run the GUI application.
 
 Closes the connection to the SQLite database when the Tkinter event loop exits.
 This code can be useful for users to quickly compare prices of a product on Amazon and Google within the specified country (in this case, India) and store the results for future reference. It provides a simple interface for conducting price comparisons efficiently.
-![Screenshot (179)](https://github.com/Afzal4984/pricecomparisontool/assets/126193636/8bebb3ee-ac48-44b6-9ff8-bd680bacecb0)
-![Screenshot (182)](https://github.com/Afzal4984/pricecomparisontool/assets/126193636/f89bc148-c881-4ccc-9bb0-cf180f3473df)
-![Screenshot (184)](https://github.com/Afzal4984/pricecomparisontool/assets/126193636/7981c9ff-23c8-453a-9f10-cfacc1294909)
+![Screenshot (182)](https://github.com/Afzal4984/pricecomparisontool/assets/126193636/99e9a098-defe-414c-a6e7-edf6203f1fa6)
+![Screenshot (184)](https://github.com/Afzal4984/pricecomparisontool/assets/126193636/9c5f8397-bec4-415b-bcb6-5d02786d78b9)
+
+
 
 
 
